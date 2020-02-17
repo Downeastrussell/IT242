@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\bin\Debug\netcoreapp3.1\chapter5lecture.exe
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\bin\Debug\netcoreapp3.1\chapter5lecture.deps.json
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\bin\Debug\netcoreapp3.1\chapter5lecture.runtimeconfig.json
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\bin\Debug\netcoreapp3.1\chapter5lecture.runtimeconfig.dev.json
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\bin\Debug\netcoreapp3.1\chapter5lecture.dll
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\bin\Debug\netcoreapp3.1\chapter5lecture.pdb
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\obj\Debug\netcoreapp3.1\chapter5lecture.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\obj\Debug\netcoreapp3.1\chapter5lecture.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\obj\Debug\netcoreapp3.1\chapter5lecture.AssemblyInfo.cs
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\obj\Debug\netcoreapp3.1\chapter5lecture.dll
+C:\Users\newforce\workspace\242\Book1\chapter5\chapter5lecture\chapter5lecture\obj\Debug\netcoreapp3.1\chapter5lecture.pdb
