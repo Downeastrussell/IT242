@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\backEnd\book1\chapter4\planets\obj\Debug\netcoreapp2.2\planets.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter4\planets\obj\Debug\netcoreapp2.2\planets.csproj.CoreCompileInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter4\planets\obj\Debug\netcoreapp2.2\planets.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter4\planets\obj\Debug\netcoreapp2.2\planets.AssemblyInfo.cs
+C:\Users\newforce\workspace\backEnd\book1\chapter4\planets\bin\Debug\netcoreapp2.2\planets.deps.json
+C:\Users\newforce\workspace\backEnd\book1\chapter4\planets\bin\Debug\netcoreapp2.2\planets.runtimeconfig.json
+C:\Users\newforce\workspace\backEnd\book1\chapter4\planets\bin\Debug\netcoreapp2.2\planets.runtimeconfig.dev.json
+c:\Users\newforce\workspace\backEnd\book1\chapter4\planets\bin\Debug\netcoreapp2.2\planets.dll
+c:\Users\newforce\workspace\backEnd\book1\chapter4\planets\bin\Debug\netcoreapp2.2\planets.pdb
+c:\Users\newforce\workspace\backEnd\book1\chapter4\planets\obj\Debug\netcoreapp2.2\planets.dll
+c:\Users\newforce\workspace\backEnd\book1\chapter4\planets\obj\Debug\netcoreapp2.2\planets.pdb

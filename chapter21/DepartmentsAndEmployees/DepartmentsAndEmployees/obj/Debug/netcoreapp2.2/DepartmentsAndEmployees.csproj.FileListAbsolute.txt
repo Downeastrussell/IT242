@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.2\DepartmentsAndEmployees.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.2\DepartmentsAndEmployees.csproj.CoreCompileInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.2\DepartmentsAndEmployees.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.2\DepartmentsAndEmployees.AssemblyInfo.cs
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.2\DepartmentsAndEmployees.deps.json
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.2\DepartmentsAndEmployees.runtimeconfig.json
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.2\DepartmentsAndEmployees.runtimeconfig.dev.json
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.2\DepartmentsAndEmployees.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\bin\Debug\netcoreapp2.2\DepartmentsAndEmployees.pdb
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.2\DepartmentsAndEmployees.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter21\DepartmentsAndEmployees\DepartmentsAndEmployees\obj\Debug\netcoreapp2.2\DepartmentsAndEmployees.pdb

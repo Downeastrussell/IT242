@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\bin\Debug\netcoreapp2.2\carsets.deps.json
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\bin\Debug\netcoreapp2.2\carsets.runtimeconfig.json
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\bin\Debug\netcoreapp2.2\carsets.runtimeconfig.dev.json
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\bin\Debug\netcoreapp2.2\carsets.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\bin\Debug\netcoreapp2.2\carsets.pdb
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\obj\Debug\netcoreapp2.2\carsets.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\obj\Debug\netcoreapp2.2\carsets.csproj.CoreCompileInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\obj\Debug\netcoreapp2.2\carsets.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\obj\Debug\netcoreapp2.2\carsets.AssemblyInfo.cs
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\obj\Debug\netcoreapp2.2\carsets.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter6\carsets\obj\Debug\netcoreapp2.2\carsets.pdb

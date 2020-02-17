@@ -1,0 +1,10 @@
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\bin\Debug\netcoreapp2.2\randomNumbers.deps.json
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\bin\Debug\netcoreapp2.2\randomNumbers.runtimeconfig.json
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\bin\Debug\netcoreapp2.2\randomNumbers.runtimeconfig.dev.json
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\bin\Debug\netcoreapp2.2\randomNumbers.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\bin\Debug\netcoreapp2.2\randomNumbers.pdb
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\obj\Debug\netcoreapp2.2\randomNumbers.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\obj\Debug\netcoreapp2.2\randomNumbers.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\obj\Debug\netcoreapp2.2\randomNumbers.AssemblyInfo.cs
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\obj\Debug\netcoreapp2.2\randomNumbers.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter4\randomNumbers\obj\Debug\netcoreapp2.2\randomNumbers.pdb

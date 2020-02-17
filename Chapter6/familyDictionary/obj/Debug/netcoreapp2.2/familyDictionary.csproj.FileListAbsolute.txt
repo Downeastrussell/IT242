@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\bin\Debug\netcoreapp2.2\familyDictionary.deps.json
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\bin\Debug\netcoreapp2.2\familyDictionary.runtimeconfig.json
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\bin\Debug\netcoreapp2.2\familyDictionary.runtimeconfig.dev.json
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\bin\Debug\netcoreapp2.2\familyDictionary.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\bin\Debug\netcoreapp2.2\familyDictionary.pdb
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\obj\Debug\netcoreapp2.2\familyDictionary.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\obj\Debug\netcoreapp2.2\familyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\obj\Debug\netcoreapp2.2\familyDictionary.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\obj\Debug\netcoreapp2.2\familyDictionary.AssemblyInfo.cs
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\obj\Debug\netcoreapp2.2\familyDictionary.dll
+C:\Users\newforce\workspace\backEnd\book1\chapter6\familyDictionary\obj\Debug\netcoreapp2.2\familyDictionary.pdb
