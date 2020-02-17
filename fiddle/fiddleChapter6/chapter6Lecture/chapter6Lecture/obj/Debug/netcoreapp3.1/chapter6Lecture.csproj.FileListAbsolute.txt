@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\bin\Debug\netcoreapp3.1\chapter6Lecture.exe
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\bin\Debug\netcoreapp3.1\chapter6Lecture.deps.json
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\bin\Debug\netcoreapp3.1\chapter6Lecture.runtimeconfig.json
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\bin\Debug\netcoreapp3.1\chapter6Lecture.runtimeconfig.dev.json
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\bin\Debug\netcoreapp3.1\chapter6Lecture.dll
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\bin\Debug\netcoreapp3.1\chapter6Lecture.pdb
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\obj\Debug\netcoreapp3.1\chapter6Lecture.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\obj\Debug\netcoreapp3.1\chapter6Lecture.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\obj\Debug\netcoreapp3.1\chapter6Lecture.AssemblyInfo.cs
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\obj\Debug\netcoreapp3.1\chapter6Lecture.dll
+C:\Users\newforce\workspace\test\fiddle\fiddleChapter6\chapter6Lecture\chapter6Lecture\obj\Debug\netcoreapp3.1\chapter6Lecture.pdb
