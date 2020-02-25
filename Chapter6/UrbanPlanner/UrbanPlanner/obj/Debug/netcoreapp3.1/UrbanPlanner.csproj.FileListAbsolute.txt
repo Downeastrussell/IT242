@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.exe
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.deps.json
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.runtimeconfig.json
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.runtimeconfig.dev.json
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.dll
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.pdb
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.AssemblyInfo.cs
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.dll
+C:\Users\newforce\workspace\test\IT242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.pdb

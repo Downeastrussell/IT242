@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\bin\Debug\netcoreapp3.1\chapter6LectureCode.exe
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\bin\Debug\netcoreapp3.1\chapter6LectureCode.deps.json
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\bin\Debug\netcoreapp3.1\chapter6LectureCode.runtimeconfig.json
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\bin\Debug\netcoreapp3.1\chapter6LectureCode.runtimeconfig.dev.json
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\bin\Debug\netcoreapp3.1\chapter6LectureCode.dll
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\bin\Debug\netcoreapp3.1\chapter6LectureCode.pdb
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\obj\Debug\netcoreapp3.1\chapter6LectureCode.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\obj\Debug\netcoreapp3.1\chapter6LectureCode.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\obj\Debug\netcoreapp3.1\chapter6LectureCode.AssemblyInfo.cs
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\obj\Debug\netcoreapp3.1\chapter6LectureCode.dll
+C:\Users\newforce\workspace\test\IT242\Chapter6\chapter6LectureCode\chapter6LectureCode\obj\Debug\netcoreapp3.1\chapter6LectureCode.pdb
