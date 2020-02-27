@@ -1,0 +1,11 @@
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\obj\Debug\netcoreapp3.1\Chapter4LectureCode.csprojAssemblyReference.cache
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\obj\Debug\netcoreapp3.1\Chapter4LectureCode.AssemblyInfoInputs.cache
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\obj\Debug\netcoreapp3.1\Chapter4LectureCode.AssemblyInfo.cs
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\bin\Debug\netcoreapp3.1\Chapter4LectureCode.exe
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\bin\Debug\netcoreapp3.1\Chapter4LectureCode.deps.json
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\bin\Debug\netcoreapp3.1\Chapter4LectureCode.runtimeconfig.json
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\bin\Debug\netcoreapp3.1\Chapter4LectureCode.runtimeconfig.dev.json
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\bin\Debug\netcoreapp3.1\Chapter4LectureCode.dll
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\bin\Debug\netcoreapp3.1\Chapter4LectureCode.pdb
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\obj\Debug\netcoreapp3.1\Chapter4LectureCode.dll
+C:\Users\newforce\source\repos\Chapter4LectureCode\Chapter4LectureCode\obj\Debug\netcoreapp3.1\Chapter4LectureCode.pdb
